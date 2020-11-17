@@ -7,5 +7,10 @@
 </head>
 <body>
     <h1>Source Code SPK Metode AHP</h1>
+<?php
+for($a=1; $a<=6; $a++){
+ echo "<h{$a}>Heading $a</h{$a}>";
+}
+?>
 </body>
 </html>
